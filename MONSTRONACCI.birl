@@ -1,0 +1,24 @@
+HORA DO SHOW
+    MONSTRO X = 0;
+    MONSTRO Y = 1;
+    MONSTRO Z = 0;
+    
+    MONSTRO I;
+    
+    OH O HOME AI PO (MONSTRO MONSTRONACCI(MONSTRO M))
+        MAIS QUERO MAIS (I = 0; I < M; I++)
+            ELE QUE A GENTE QUER? (X == 0)
+                CE QUER VER ESSA PORRA?("0 1 ");
+            BIRL
+            Z = X + Y;
+            X = Y;
+            Y = Z;
+            CE QUER VER ESSA PORRA?("%d ", Z);
+        BIRL
+    BORA CUMPADE 1;
+    BIRL
+    
+    AJUDA O MALUCO TA DOENTE MONSTRONACCI(25);
+    
+    BORA CUMPADE 0;
+BIRL
